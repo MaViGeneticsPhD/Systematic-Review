@@ -13,7 +13,7 @@
 
 ## 3. PECODR Elements
 
-| Element | Define It For This Review | What You Will Accept/Record |
+| Element | Definition For This Review | Accept/Record |
 |---|---|---|
 | **P – Population / Problem** | Domestic pigs (Sus scrofa domesticus), any breed/line, sex, age, production stage (wean-to-finish, grow-finish, sows, boars). Must involve PRRSV context. | Sample size, breed(s), age/stage, management system, country. |
 | **E – Exposure** | PRRSV infection or vaccination + challenge (experimental) **or** naturally occurring PRRSV outbreaks/pressure. | Challenge type (natural vs artificial), strain, dose, timing (dpi, dpv), co-infections. |
@@ -24,7 +24,7 @@
 
 ---
 
-## 4. Inclusion & Exclusion Criteria (Quick Reference)
+## 4. Inclusion & Exclusion Criteria 
 
 - **Include:**  
   - Species: pig/swine/porcine.  
@@ -39,7 +39,7 @@
 
 ---
 
-## 6. Workflow (Step-by-Step)
+## 6. Workflow 
 
 1. **Protocol**: Draft and register (OSF/PROSPERO).  
 2. **Search**: Run the Boolean strings in PubMed, Scopus, Web of Science, CAB Abstracts, etc. Export RIS/BibTeX.  
