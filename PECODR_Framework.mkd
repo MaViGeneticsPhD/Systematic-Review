@@ -1,0 +1,85 @@
+# PECODR Framework for a Systematic Review on PRRSV Resilience Genetics in Pigs
+
+## 1. Review Title 
+**Genetic Parameters of Disease Resilience and Performance Traits in Pigs Exposed to PRRSV: A Systematic Review**
+
+---
+
+## 2. Core PECODR Question
+
+> **In pigs (any age/production class) exposed to PRRSV (natural or experimental), how do genetic parameter estimates for resilience-related and performance traits compare across different exposure levels, populations, or time points, over defined post-exposure periods, and what ranges of estimates and methodologies are reported?**
+
+---
+
+## 3. PECODR Elements
+
+| Element | Define It For This Review | What You Will Accept/Record |
+|---|---|---|
+| **P – Population / Problem** | Domestic pigs (Sus scrofa domesticus), any breed/line, sex, age, production stage (wean-to-finish, grow-finish, sows, boars). Must involve PRRSV context. | Sample size, breed(s), age/stage, management system, country. |
+| **E – Exposure** | PRRSV infection or vaccination + challenge (experimental) **or** naturally occurring PRRSV outbreaks/pressure. | Challenge type (natural vs artificial), strain, dose, timing (dpi, dpv), co-infections. |
+| **C – Comparison** | a) Non-/low-exposed pigs, b) pre- vs post-challenge measurements, c) alternative genotypes/lines, d) different environments/challenge levels. (If no explicit comparator, treat it as single-arm parameter estimation and record baseline values.) | Define what “baseline” is (e.g., pre-challenge ADG); record any control group, alternative management, or time-window comparisons. |
+| **O – Outcomes** | **Primary:** Genetic parameters (heritability, genetic correlations, variance components) for resilience indicators (mortality/survival/stayability, ADG loss/recovery, clinical scores, treatment count, viremia/SP ratio, cortisol, etc.). **Secondary:** Parameters for standard performance traits measured in the same context. | Trait definition/unit, model used, estimate, SE/CI, software, fixed & random effects, genomic info (chips, SNPs). |
+| **D – Duration** | Time window over which outcomes were measured (e.g., 0–42 dpi, nursery phase, to market weight, lifetime stayability). | Exact dpi/day ranges, production phase, length of follow-up (weeks/months), censoring rules. |
+| **R – Results** | Reported ranges and distributions of genetic parameters; methodological trends (models, software); study quality/risk of bias; identified gaps. | Extract estimates + SE, transform as needed (e.g., Fisher’s z for rg), meta-analytic summaries, heterogeneity metrics (I²), narrative synthesis. |
+
+---
+
+## 4. Inclusion & Exclusion Criteria (Quick Reference)
+
+- **Include:**  
+  - Species: pig/swine/porcine.  
+  - PRRSV exposure context (natural or experimental).  
+  - Reports genetic parameters (h², rg, etc.) or variance components for resilience/performance traits.  
+  - Peer-reviewed articles; 
+
+- **Exclude:**  
+  - No PRRSV involvement or no quantitative genetic estimates.  
+  - Reviews without original data.  
+  - Pure immunology/virology without genetics outcomes.
+
+---
+
+## 6. Workflow (Step-by-Step)
+
+1. **Protocol**: Draft and register (OSF/PROSPERO).  
+2. **Search**: Run the Boolean strings in PubMed, Scopus, Web of Science, CAB Abstracts, etc. Export RIS/BibTeX.  
+3. **Import & Deduplicate**: Use Covidence for deduplication and screening setup.  
+4. **Screening (Level 1)**: Title/abstract—apply PECODR-driven criteria.  
+5. **Full-Text Review (Level 2)**: Confirm inclusion, capture missing details.  
+6. **Data Extraction**: Use a standardized sheet in Covidence or Excel.  
+7. **Risk of Bias/Quality**: Adapt SYRCLE/ROBINS-I to quantitative genetics.  
+8. **Synthesis**: Narrative + (if sufficient) meta-analysis (random-effects).  
+9. **Reporting**: PRISMA 2020 diagram, tables of estimates, forest plots.  
+---
+
+## 7. Data Extraction Template (Columns)
+
+- Study ID (Author, Year)  
+- Population details (breed, age, n)  
+- Exposure type (natural/experimental; strain; dose; timing)  
+- Comparator (baseline, control line, different challenge level, etc.)  
+- Trait name/definition (unit/time window)  
+- Duration window (dpi, nursery, to market, lifetime)  
+- Genetic model/software (REML, Bayesian, BLUPF90, ASReml, ssGBLUP…)  
+- Fixed & random effects included  
+- Parameter estimate (value, SE/CI)  
+- Genomic platform (chip, SNP count)  
+- Risk-of-bias items  
+- Notes/comments
+
+---
+
+## 8. Planned Analyses
+
+- **Heritability (h²):** Weighted by inverse SE².  
+- **Genetic correlations (rg):** Fisher’s z transform → meta-analyze → back-transform.  
+- **Heterogeneity:** I², τ²; subgroup by trait category, exposure type, age class.  
+- **Sensitivity:** Exclude high-risk studies, re-run analyses.  
+- **Bias checks:** Funnel plots (interpret cautiously).
+
+---
+
+
+
+
+
