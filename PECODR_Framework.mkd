@@ -15,11 +15,11 @@
 
 | Element | Definition For This Review | Accept/Record |
 |---|---|---|
-| **P – Population / Problem** | Domestic pigs (Sus scrofa domesticus), any breed/line, sex, age, production stage (wean-to-finish, grow-finish, sows, boars). Must involve PRRSV context. | Sample size, breed(s), age/stage, management system, country. |
+| **P – Population / Problem** | Domestic pigs (Sus scrofa domesticus), any breed/line, sex, production stage (wean-to-finish, grow-finish). Must involve PRRSV context. | Sample size, breed(s), age/stage, management system, country. |
 | **E – Exposure** | PRRSV vaccination + challenge (artificial) **or** naturally occurring PRRSV outbreaks | Challenge type (natural vs artificial), strain, dose, timing (dpi, dpv), co-infections. |
-| **C – Comparison** | a) Non-exposed pigs, b) pre- vs post-challenge measurements, c) alternative genotypes/lines, d) different environments/challenge levels. | Define what “baseline” is (e.g., pre-challenge ADG); record any control group, alternative management, or time-window comparisons. |
+| **C – Comparison** | a) pre- vs post-challenge measurements, c) alternative genotypes/lines, d) different environments/challenge levels. | Define what “baseline” is (e.g., pre-challenge ADG) |
 | **O – Outcomes** | **Primary:** Genetic parameters (heritability, genetic correlations, variance components) for resilience indicators. **Secondary:** Parameters for standard performance traits measured in the same context. | Trait definition/unit, model used, estimate, SE/CI, software, fixed & random effects, genomic info. |
-| **D – Duration** | Time window over which outcomes were measured (e.g., 0–42 dpi, nursery phase, to market weight, lifetime stayability). | Exact dpi/day ranges, production phase, length of follow-up (weeks/months), censoring rules. |
+| **D – Duration** | Time window over which outcomes were measured (e.g., 0–42 dpi, nursery phase, to market weight). | Exact dpi/day ranges, production phase, length of follow-up (weeks/months), censoring rules. |
 | **R – Results** | Reported ranges and distributions of genetic parameters; methodological trends (models, software); study quality/risk of bias; identified gaps. | Extract estimates + SE, transform as needed (e.g., Fisher’s z for rg), meta-analytic summaries, heterogeneity metrics (I²), narrative synthesis. |
 
 ---
