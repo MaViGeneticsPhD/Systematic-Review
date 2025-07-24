@@ -46,10 +46,6 @@
 3. **Import & Deduplicate**: Use Covidence for deduplication and screening setup.  
 4. **Screening (Level 1)**: Title/abstract—apply PECODR-driven criteria.  
 5. **Full-Text Review (Level 2)**: Confirm inclusion, capture missing details.  
-6. **Data Extraction**: Use a standardized sheet in Covidence or Excel.  
-7. **Risk of Bias/Quality**: Adapt SYRCLE/ROBINS-I to quantitative genetics.  
-8. **Synthesis**: Narrative + (if sufficient) meta-analysis (random-effects).  
-9. **Reporting**: PRISMA 2020 diagram, tables of estimates, forest plots.  
 ---
 
 ## 7. Data Extraction Template (Columns)
